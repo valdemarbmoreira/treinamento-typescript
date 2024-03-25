@@ -1,6 +1,6 @@
 # Typescript
 
-Para intalar o typescript
+Para instalar o typescript
 
 ```sh
 npm install -g typescript
